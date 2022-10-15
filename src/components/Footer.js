@@ -14,12 +14,6 @@ background-color: black;
     font-weight: 900;
 `
 
-const LinkDiv = styled.div`
-        height: 20px;
-    width: 20px;
-    border: 1px solid black;
-    border-radius: 50%;
-`
 
 const SocialLink = styled.a`
         padding-left: 3rem;
